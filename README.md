@@ -1,3 +1,6 @@
+All the figures are present in the figures folder whereas the script to generate the figures and other processing is present in the file Code.R
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
