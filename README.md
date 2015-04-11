@@ -1,4 +1,3 @@
-All the figures are present in the figures folder whereas the script to generate the figures and other processing is present in the file Code.R
 
 
 ## Introduction
